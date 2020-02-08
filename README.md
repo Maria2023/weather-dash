@@ -14,5 +14,4 @@ The results section display the current city info and the 5-days forecast. The r
 
 
 
-https://maria2023.github.io/Weather-Dash/
-
+https://maria2023.github.io/weather-dash/
